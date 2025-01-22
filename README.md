@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project: Loan Default Prediction In Peer-To-Peer Lending
 
 ## Install
@@ -34,3 +35,6 @@ This will open the Jupyter Notebook software and project file in your web browse
 ## Data
 
 The dataset used in this project is included as `LoanStats3a.csv` and the data dictionary is `LCDataDictionary.xlsx`. This dataset is provided by Lending Club. 
+=======
+# LoanDefaultPrediction
+>>>>>>> a2ba4da61d3a94c8f0280c31df48b4b618648f46
